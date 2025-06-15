@@ -1,5 +1,7 @@
-___
+---
 name: Checks
+
+
 on: [push]
 jobs:
  test-lint:
