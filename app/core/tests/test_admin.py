@@ -26,6 +26,7 @@ class AdminSiteTest(TestCase):
             password = "testpass123",
             name = "Test User"
         )
+        
     def test_users_list(self):
         """
         test that users are listed on page

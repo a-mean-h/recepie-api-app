@@ -5,3 +5,5 @@ exclude =
  __pycache__,
   manage.py,
   settings.py,
+
+ignore = W291, W292, W293, W391
